@@ -1,0 +1,16 @@
+{
+    "name": "Mate Distractivă",
+    "short_name": "Mate",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f0f8ff",
+    "theme_color": "#4ecdc4",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
